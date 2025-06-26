@@ -1,1 +1,3 @@
-# mitre-atlas-ja
+# MITRE ATLAS 日本語化
+
+MITRE ATLAS を日本語化したコンテンツ置き場です。本家のバージョン アップには完全に追従できていません。
